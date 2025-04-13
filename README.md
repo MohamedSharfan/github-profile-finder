@@ -10,7 +10,7 @@ A simple web application that allows users to search for any GitHub profile and 
   - Followers / Following count
   - Public repository count
   - List of repositories with clickable links
-- Clean, modern UI with responsive design
+- Clean, modern UI
 
 ## 🛠️ Tech Stack
 - HTML
