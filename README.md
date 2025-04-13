@@ -25,6 +25,7 @@ This project utilizes the [GitHub Users API](https://docs.github.com/en/rest/use
 - `https://api.github.com/users/{username}`
 - `https://api.github.com/users/{username}/repos`
 
+
 ## 💡 How to Use
 1. Clone the repo or open the project folder.
 2. Open `index.html` in your browser.
@@ -35,6 +36,5 @@ Feel free to fork this repo and improve the UI or add new features!
 
 ## 🧑‍💻 Author
 **Mohamed Sharfan**  
-[LinkedIn]([https://www.linkedin.com/in/your-profile](https://lk.linkedin.com/in/mohamedsharfan)) | [GitHub]([https://github.com/sharfan06](https://github.com/MohamedSharfan))
-
+[LinkedIn](https://www.linkedin.com/in/mohamedsharfan) | [GitHub](https://github.com/MohamedSharfan)
 
